@@ -83,7 +83,7 @@ DATABASES = {
         'NAME':  'dqf88$blog',
         'HOST': 'dqf88.mysql.pythonanywhere-services.com',
         'USER': 'dqf88',
-        'PASSWORD': 'dqf7758521',
+        'PASSWORD': '',
     }
 }
 
